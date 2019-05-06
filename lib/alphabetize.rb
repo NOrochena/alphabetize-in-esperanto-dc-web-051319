@@ -3,5 +3,5 @@ def alphabetize(arr)
   arr.sort_by do |word|
     word
   end
-  esperanto_alphabet
+  arr
 end
